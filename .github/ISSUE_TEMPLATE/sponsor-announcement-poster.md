@@ -35,6 +35,17 @@ Select one:
 
 <!-- Document with details of sponsor -->
 
+### Dimensions needed
+
+<!--
+Select all applicable:
+
+- X
+- LinkedIn
+- Instagram Post
+
+-->
+
 ## MUST DO Notes
 
 - The poster should be posted in the document for approval and NOT to this GitHub issue.
